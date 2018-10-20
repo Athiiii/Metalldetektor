@@ -6,4 +6,5 @@
 
 # Technologies
  - Swift
+ - CoreMotion Library of Swift
  - IDE XCode 12
