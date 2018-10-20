@@ -4,6 +4,6 @@
  - Clearing current Data
  - Start/Stop Magnometer
 
-/ Technologies
+# Technologies
  - Swift
  - IDE XCode 12
